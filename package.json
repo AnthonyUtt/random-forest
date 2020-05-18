@@ -54,7 +54,7 @@
   "dependencies": {
     "ml-array-mean": "^1.1.2",
     "ml-array-median": "^1.1.2",
-    "ml-cart": "^2.0.1",
+    "ml-cart": "github:AnthonyUtt/decision-tree-cart",
     "ml-matrix": "^6.4.1",
     "random-js": "^2.1.0"
   }
